@@ -1,5 +1,6 @@
 # Send email using NodeJS
 
+Complete tutorial can be found at http://angularcode.com/project-demo-send-mail-using-nodejs/
 ## Instructions
 + Create an account at sendgrid.com and generate the api key
 + Replace the API_KEY at index.js
